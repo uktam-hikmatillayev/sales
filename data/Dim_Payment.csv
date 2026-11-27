@@ -1,0 +1,5 @@
+﻿PaymentID,PaymentType,PaymentGroup
+1,Naqd,Instant
+2,Bank kartasi,Instant
+3,Bank o‘tkazmasi,Instant
+4,Muddatli to‘lov,Installment

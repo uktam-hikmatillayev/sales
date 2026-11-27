@@ -1,0 +1,31 @@
+﻿BranchID,BranchName,Region,City,BranchType,OpenDate
+1,Chilonzor filiali,Toshkent shahri,Toshkent,Flagship,2021-03-29
+2,Yunusobod filiali,Toshkent shahri,Toshkent,Flagship,2021-06-24
+3,Mirzo Ulug‘bek filiali,Toshkent shahri,Toshkent,Standard,2021-09-19
+4,Sergeli filiali,Toshkent shahri,Toshkent,Standard,2021-12-15
+5,Shayxontohur filiali,Toshkent shahri,Toshkent,Standard,2022-03-12
+6,Olmazor filiali,Toshkent shahri,Toshkent,Standard,2022-06-07
+7,Chirchiq filiali,Toshkent viloyati,Chirchiq,Standard,2022-09-02
+8,Angren filiali,Toshkent viloyati,Angren,Mini,2022-11-28
+9,Olmaliq filiali,Toshkent viloyati,Olmaliq,Mini,2023-02-23
+10,Samarqand markaz filiali,Samarqand,Samarqand,Flagship,2023-05-21
+11,Kattaqo‘rg‘on filiali,Samarqand,Kattaqo‘rg‘on,Standard,2023-08-16
+12,Urgut filiali,Samarqand,Urgut,Mini,2021-02-14
+13,Farg‘ona markaz filiali,Farg‘ona,Farg‘ona,Flagship,2021-05-12
+14,Qo‘qon filiali,Farg‘ona,Qo‘qon,Standard,2021-08-07
+15,Marg‘ilon filiali,Farg‘ona,Marg‘ilon,Mini,2021-11-02
+16,Andijon markaz filiali,Andijon,Andijon,Flagship,2022-01-28
+17,Asaka filiali,Andijon,Asaka,Mini,2022-04-25
+18,Namangan markaz filiali,Namangan,Namangan,Flagship,2022-07-21
+19,Chust filiali,Namangan,Chust,Mini,2022-10-16
+20,Buxoro markaz filiali,Buxoro,Buxoro,Flagship,2023-01-11
+21,G‘ijduvon filiali,Buxoro,G‘ijduvon,Mini,2023-04-08
+22,Qarshi filiali,Qashqadaryo,Qarshi,Flagship,2023-07-04
+23,Shahrisabz filiali,Qashqadaryo,Shahrisabz,Mini,2021-01-02
+24,Termiz filiali,Surxondaryo,Termiz,Standard,2021-03-30
+25,Navoiy filiali,Navoiy,Navoiy,Standard,2021-06-25
+26,Jizzax filiali,Jizzax,Jizzax,Mini,2021-09-20
+27,Guliston filiali,Sirdaryo,Guliston,Mini,2021-12-16
+28,Urganch filiali,Xorazm,Urganch,Standard,2022-03-13
+29,Xiva filiali,Xorazm,Xiva,Mini,2022-06-08
+30,Nukus filiali,Qoraqalpog‘iston,Nukus,Standard,2022-09-03

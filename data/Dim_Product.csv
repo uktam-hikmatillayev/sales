@@ -1,0 +1,151 @@
+﻿ProductID,ProductName,Category,SubCategory,Brand,ProductSegment
+1,Samsung Smartfon 01 (128/256 GB),Elektronika,Smartfon,Samsung,Premium
+2,Honor Smartfon 02 (128/256 GB),Elektronika,Smartfon,Honor,Middle
+3,Apple Smartfon 03 (128/256 GB),Elektronika,Smartfon,Apple,Budget
+4,Xiaomi Smartfon 04 (128/256 GB),Elektronika,Smartfon,Xiaomi,Premium
+5,Realme Smartfon 05 (128/256 GB),Elektronika,Smartfon,Realme,Middle
+6,Samsung Smartfon 06 (128/256 GB),Elektronika,Smartfon,Samsung,Budget
+7,Honor Smartfon 07 (128/256 GB),Elektronika,Smartfon,Honor,Premium
+8,Apple Smartfon 08 (128/256 GB),Elektronika,Smartfon,Apple,Middle
+9,Xiaomi Smartfon 09 (128/256 GB),Elektronika,Smartfon,Xiaomi,Budget
+10,Realme Smartfon 10 (128/256 GB),Elektronika,Smartfon,Realme,Premium
+11,Samsung Smartfon 11 (128/256 GB),Elektronika,Smartfon,Samsung,Middle
+12,Honor Smartfon 12 (128/256 GB),Elektronika,Smartfon,Honor,Budget
+13,Apple Smartfon 13 (128/256 GB),Elektronika,Smartfon,Apple,Premium
+14,Xiaomi Smartfon 14 (128/256 GB),Elektronika,Smartfon,Xiaomi,Middle
+15,Realme Smartfon 15 (128/256 GB),Elektronika,Smartfon,Realme,Budget
+16,Samsung Smartfon 16 (128/256 GB),Elektronika,Smartfon,Samsung,Premium
+17,Honor Smartfon 17 (128/256 GB),Elektronika,Smartfon,Honor,Middle
+18,Apple Smartfon 18 (128/256 GB),Elektronika,Smartfon,Apple,Budget
+19,Xiaomi Smartfon 19 (128/256 GB),Elektronika,Smartfon,Xiaomi,Premium
+20,Realme Smartfon 20 (128/256 GB),Elektronika,Smartfon,Realme,Middle
+21,Samsung Smartfon 21 (128/256 GB),Elektronika,Smartfon,Samsung,Budget
+22,Honor Smartfon 22 (128/256 GB),Elektronika,Smartfon,Honor,Premium
+23,Apple Smartfon 23 (128/256 GB),Elektronika,Smartfon,Apple,Middle
+24,Xiaomi Smartfon 24 (128/256 GB),Elektronika,Smartfon,Xiaomi,Budget
+25,Realme Smartfon 25 (128/256 GB),Elektronika,Smartfon,Realme,Premium
+26,Samsung Smartfon 26 (128/256 GB),Elektronika,Smartfon,Samsung,Middle
+27,Honor Smartfon 27 (128/256 GB),Elektronika,Smartfon,Honor,Budget
+28,Apple Smartfon 28 (128/256 GB),Elektronika,Smartfon,Apple,Premium
+29,Dell Noutbuk 01 (8/16 GB RAM),Elektronika,Noutbuk,Dell,Premium
+30,HP Noutbuk 02 (8/16 GB RAM),Elektronika,Noutbuk,HP,Middle
+31,ASUS Noutbuk 03 (8/16 GB RAM),Elektronika,Noutbuk,ASUS,Budget
+32,Lenovo Noutbuk 04 (8/16 GB RAM),Elektronika,Noutbuk,Lenovo,Premium
+33,Acer Noutbuk 05 (8/16 GB RAM),Elektronika,Noutbuk,Acer,Middle
+34,Dell Noutbuk 06 (8/16 GB RAM),Elektronika,Noutbuk,Dell,Budget
+35,HP Noutbuk 07 (8/16 GB RAM),Elektronika,Noutbuk,HP,Premium
+36,ASUS Noutbuk 08 (8/16 GB RAM),Elektronika,Noutbuk,ASUS,Middle
+37,Lenovo Noutbuk 09 (8/16 GB RAM),Elektronika,Noutbuk,Lenovo,Budget
+38,Acer Noutbuk 10 (8/16 GB RAM),Elektronika,Noutbuk,Acer,Premium
+39,Dell Noutbuk 11 (8/16 GB RAM),Elektronika,Noutbuk,Dell,Middle
+40,HP Noutbuk 12 (8/16 GB RAM),Elektronika,Noutbuk,HP,Budget
+41,ASUS Noutbuk 13 (8/16 GB RAM),Elektronika,Noutbuk,ASUS,Premium
+42,Lenovo Noutbuk 14 (8/16 GB RAM),Elektronika,Noutbuk,Lenovo,Middle
+43,Acer Noutbuk 15 (8/16 GB RAM),Elektronika,Noutbuk,Acer,Budget
+44,Dell Noutbuk 16 (8/16 GB RAM),Elektronika,Noutbuk,Dell,Premium
+45,HP Noutbuk 17 (8/16 GB RAM),Elektronika,Noutbuk,HP,Middle
+46,ASUS Noutbuk 18 (8/16 GB RAM),Elektronika,Noutbuk,ASUS,Budget
+47,Lenovo Noutbuk 19 (8/16 GB RAM),Elektronika,Noutbuk,Lenovo,Premium
+48,Acer Noutbuk 20 (8/16 GB RAM),Elektronika,Noutbuk,Acer,Middle
+49,Dell Noutbuk 21 (8/16 GB RAM),Elektronika,Noutbuk,Dell,Budget
+50,HP Noutbuk 22 (8/16 GB RAM),Elektronika,Noutbuk,HP,Premium
+51,ASUS Noutbuk 23 (8/16 GB RAM),Elektronika,Noutbuk,ASUS,Middle
+52,Lenovo Noutbuk 24 (8/16 GB RAM),Elektronika,Noutbuk,Lenovo,Budget
+53,Samsung Televizor 01 (43/55/65 dyuym),Elektronika,Televizor,Samsung,Premium
+54,Hisense Televizor 02 (43/55/65 dyuym),Elektronika,Televizor,Hisense,Middle
+55,Artel Televizor 03 (43/55/65 dyuym),Elektronika,Televizor,Artel,Budget
+56,LG Televizor 04 (43/55/65 dyuym),Elektronika,Televizor,LG,Premium
+57,Samsung Televizor 05 (43/55/65 dyuym),Elektronika,Televizor,Samsung,Middle
+58,Hisense Televizor 06 (43/55/65 dyuym),Elektronika,Televizor,Hisense,Budget
+59,Artel Televizor 07 (43/55/65 dyuym),Elektronika,Televizor,Artel,Premium
+60,LG Televizor 08 (43/55/65 dyuym),Elektronika,Televizor,LG,Middle
+61,Samsung Televizor 09 (43/55/65 dyuym),Elektronika,Televizor,Samsung,Budget
+62,Hisense Televizor 10 (43/55/65 dyuym),Elektronika,Televizor,Hisense,Premium
+63,Artel Televizor 11 (43/55/65 dyuym),Elektronika,Televizor,Artel,Middle
+64,LG Televizor 12 (43/55/65 dyuym),Elektronika,Televizor,LG,Budget
+65,Samsung Televizor 13 (43/55/65 dyuym),Elektronika,Televizor,Samsung,Premium
+66,Hisense Televizor 14 (43/55/65 dyuym),Elektronika,Televizor,Hisense,Middle
+67,Artel Televizor 15 (43/55/65 dyuym),Elektronika,Televizor,Artel,Budget
+68,LG Televizor 16 (43/55/65 dyuym),Elektronika,Televizor,LG,Premium
+69,Samsung Televizor 17 (43/55/65 dyuym),Elektronika,Televizor,Samsung,Middle
+70,Hisense Televizor 18 (43/55/65 dyuym),Elektronika,Televizor,Hisense,Budget
+71,LG Muzlatkich 01 (No Frost),Maishiy texnika,Muzlatkich,LG,Premium
+72,Artel Muzlatkich 02 (No Frost),Maishiy texnika,Muzlatkich,Artel,Middle
+73,Bosch Muzlatkich 03 (No Frost),Maishiy texnika,Muzlatkich,Bosch,Budget
+74,Samsung Muzlatkich 04 (No Frost),Maishiy texnika,Muzlatkich,Samsung,Premium
+75,LG Muzlatkich 05 (No Frost),Maishiy texnika,Muzlatkich,LG,Middle
+76,Artel Muzlatkich 06 (No Frost),Maishiy texnika,Muzlatkich,Artel,Budget
+77,Bosch Muzlatkich 07 (No Frost),Maishiy texnika,Muzlatkich,Bosch,Premium
+78,Samsung Muzlatkich 08 (No Frost),Maishiy texnika,Muzlatkich,Samsung,Middle
+79,LG Muzlatkich 09 (No Frost),Maishiy texnika,Muzlatkich,LG,Budget
+80,Artel Muzlatkich 10 (No Frost),Maishiy texnika,Muzlatkich,Artel,Premium
+81,Bosch Muzlatkich 11 (No Frost),Maishiy texnika,Muzlatkich,Bosch,Middle
+82,Samsung Muzlatkich 12 (No Frost),Maishiy texnika,Muzlatkich,Samsung,Budget
+83,LG Muzlatkich 13 (No Frost),Maishiy texnika,Muzlatkich,LG,Premium
+84,Artel Muzlatkich 14 (No Frost),Maishiy texnika,Muzlatkich,Artel,Middle
+85,Bosch Muzlatkich 15 (No Frost),Maishiy texnika,Muzlatkich,Bosch,Budget
+86,Samsung Muzlatkich 16 (No Frost),Maishiy texnika,Muzlatkich,Samsung,Premium
+87,Bosch Kir yuvish mashinasi 01 (7/8/9 kg),Maishiy texnika,Kir yuvish mashinasi,Bosch,Premium
+88,Samsung Kir yuvish mashinasi 02 (7/8/9 kg),Maishiy texnika,Kir yuvish mashinasi,Samsung,Middle
+89,LG Kir yuvish mashinasi 03 (7/8/9 kg),Maishiy texnika,Kir yuvish mashinasi,LG,Budget
+90,Artel Kir yuvish mashinasi 04 (7/8/9 kg),Maishiy texnika,Kir yuvish mashinasi,Artel,Premium
+91,Bosch Kir yuvish mashinasi 05 (7/8/9 kg),Maishiy texnika,Kir yuvish mashinasi,Bosch,Middle
+92,Samsung Kir yuvish mashinasi 06 (7/8/9 kg),Maishiy texnika,Kir yuvish mashinasi,Samsung,Budget
+93,LG Kir yuvish mashinasi 07 (7/8/9 kg),Maishiy texnika,Kir yuvish mashinasi,LG,Premium
+94,Artel Kir yuvish mashinasi 08 (7/8/9 kg),Maishiy texnika,Kir yuvish mashinasi,Artel,Middle
+95,Bosch Kir yuvish mashinasi 09 (7/8/9 kg),Maishiy texnika,Kir yuvish mashinasi,Bosch,Budget
+96,Samsung Kir yuvish mashinasi 10 (7/8/9 kg),Maishiy texnika,Kir yuvish mashinasi,Samsung,Premium
+97,LG Kir yuvish mashinasi 11 (7/8/9 kg),Maishiy texnika,Kir yuvish mashinasi,LG,Middle
+98,Artel Kir yuvish mashinasi 12 (7/8/9 kg),Maishiy texnika,Kir yuvish mashinasi,Artel,Budget
+99,Bosch Kir yuvish mashinasi 13 (7/8/9 kg),Maishiy texnika,Kir yuvish mashinasi,Bosch,Premium
+100,Samsung Kir yuvish mashinasi 14 (7/8/9 kg),Maishiy texnika,Kir yuvish mashinasi,Samsung,Middle
+101,Artel Kichik maishiy texnika 01 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Artel,Premium
+102,Philips Kichik maishiy texnika 02 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Philips,Middle
+103,Tefal Kichik maishiy texnika 03 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Tefal,Budget
+104,Bosch Kichik maishiy texnika 04 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Bosch,Premium
+105,Artel Kichik maishiy texnika 05 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Artel,Middle
+106,Philips Kichik maishiy texnika 06 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Philips,Budget
+107,Tefal Kichik maishiy texnika 07 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Tefal,Premium
+108,Bosch Kichik maishiy texnika 08 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Bosch,Middle
+109,Artel Kichik maishiy texnika 09 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Artel,Budget
+110,Philips Kichik maishiy texnika 10 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Philips,Premium
+111,Tefal Kichik maishiy texnika 11 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Tefal,Middle
+112,Bosch Kichik maishiy texnika 12 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Bosch,Budget
+113,Artel Kichik maishiy texnika 13 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Artel,Premium
+114,Philips Kichik maishiy texnika 14 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Philips,Middle
+115,Tefal Kichik maishiy texnika 15 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Tefal,Budget
+116,Bosch Kichik maishiy texnika 16 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Bosch,Premium
+117,Artel Kichik maishiy texnika 17 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Artel,Middle
+118,Philips Kichik maishiy texnika 18 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Philips,Budget
+119,Tefal Kichik maishiy texnika 19 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Tefal,Premium
+120,Bosch Kichik maishiy texnika 20 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Bosch,Middle
+121,Artel Kichik maishiy texnika 21 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Artel,Budget
+122,Philips Kichik maishiy texnika 22 (Uy uchun),Maishiy texnika,Kichik maishiy texnika,Philips,Premium
+123,JBL Aksessuar 01 (Simsiz/USB-C),Elektronika,Aksessuar,JBL,Premium
+124,Baseus Aksessuar 02 (Simsiz/USB-C),Elektronika,Aksessuar,Baseus,Middle
+125,Anker Aksessuar 03 (Simsiz/USB-C),Elektronika,Aksessuar,Anker,Budget
+126,Xiaomi Aksessuar 04 (Simsiz/USB-C),Elektronika,Aksessuar,Xiaomi,Premium
+127,JBL Aksessuar 05 (Simsiz/USB-C),Elektronika,Aksessuar,JBL,Middle
+128,Baseus Aksessuar 06 (Simsiz/USB-C),Elektronika,Aksessuar,Baseus,Budget
+129,Anker Aksessuar 07 (Simsiz/USB-C),Elektronika,Aksessuar,Anker,Premium
+130,Xiaomi Aksessuar 08 (Simsiz/USB-C),Elektronika,Aksessuar,Xiaomi,Middle
+131,JBL Aksessuar 09 (Simsiz/USB-C),Elektronika,Aksessuar,JBL,Budget
+132,Baseus Aksessuar 10 (Simsiz/USB-C),Elektronika,Aksessuar,Baseus,Premium
+133,Anker Aksessuar 11 (Simsiz/USB-C),Elektronika,Aksessuar,Anker,Middle
+134,Xiaomi Aksessuar 12 (Simsiz/USB-C),Elektronika,Aksessuar,Xiaomi,Budget
+135,JBL Aksessuar 13 (Simsiz/USB-C),Elektronika,Aksessuar,JBL,Premium
+136,Baseus Aksessuar 14 (Simsiz/USB-C),Elektronika,Aksessuar,Baseus,Middle
+137,Anker Aksessuar 15 (Simsiz/USB-C),Elektronika,Aksessuar,Anker,Budget
+138,Xiaomi Aksessuar 16 (Simsiz/USB-C),Elektronika,Aksessuar,Xiaomi,Premium
+139,JBL Aksessuar 17 (Simsiz/USB-C),Elektronika,Aksessuar,JBL,Middle
+140,Baseus Aksessuar 18 (Simsiz/USB-C),Elektronika,Aksessuar,Baseus,Budget
+141,Anker Aksessuar 19 (Simsiz/USB-C),Elektronika,Aksessuar,Anker,Premium
+142,Xiaomi Aksessuar 20 (Simsiz/USB-C),Elektronika,Aksessuar,Xiaomi,Middle
+143,JBL Aksessuar 21 (Simsiz/USB-C),Elektronika,Aksessuar,JBL,Budget
+144,Baseus Aksessuar 22 (Simsiz/USB-C),Elektronika,Aksessuar,Baseus,Premium
+145,Anker Aksessuar 23 (Simsiz/USB-C),Elektronika,Aksessuar,Anker,Middle
+146,Xiaomi Aksessuar 24 (Simsiz/USB-C),Elektronika,Aksessuar,Xiaomi,Budget
+147,JBL Aksessuar 25 (Simsiz/USB-C),Elektronika,Aksessuar,JBL,Premium
+148,Baseus Aksessuar 26 (Simsiz/USB-C),Elektronika,Aksessuar,Baseus,Middle
+149,Anker Aksessuar 27 (Simsiz/USB-C),Elektronika,Aksessuar,Anker,Budget
+150,Xiaomi Aksessuar 28 (Simsiz/USB-C),Elektronika,Aksessuar,Xiaomi,Premium
